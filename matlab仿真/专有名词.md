@@ -1,8 +1,0 @@
-sine wave 正弦波
-integrator  积分模块
-derivative 微分模块
-scope 示波器
-to workspace 放入工作空间
-Bus Creator 总线
-simscape 物理建模工具箱
-dd
