@@ -1,1 +1,11 @@
+1.搭建了一个简单的SAR ADC电路，文件名——SAR ADC 1
 
+仿真结果：
+
+![1](https://files.catbox.moe/c2ttml.png)
+
+电路原理图：
+![2](https://files.catbox.moe/bnj813.png)
+
+电路中最小结构单元（这里是Subsystem1）：
+![3](https://files.catbox.moe/l66g1z.png)
